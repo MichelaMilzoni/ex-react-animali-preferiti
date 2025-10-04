@@ -79,75 +79,32 @@
   <script type="text/babel">
     const { useState } = React;
 
-    function Modal({ title, content, show = false, onClose = () => {}, onConfirm = () => {} }) {
-      return (
-        show &&
-        ReactDOM.createPortal(
-          <div className="modal-container">
-            <div className="modal">
-              <h2>{title}</h2>
-              {content}
-              <div className="modalButtons">
-                <button onClick={onClose}>Annulla</button>
-                <button onClick={onConfirm}>Conferma</button>
-              </div>
-            </div>
-          </div>,
-          document.body
-        )
-      );
+function ListaAnimaliDinamica() {
+  const [animali, setAnimali] = useState([]);
+  const animalsChoices = ["Cane", "Gatto", "Pappagallo", "Cavallo", "Panda"];
+
+  function aggiungiAnimaleCasuale() {
+    const animaleCasuale = animalsChoices[Math.floor(Math.random() * animalsChoices.length)];
+    if (!animali.includes(animaleCasuale)) {
+      setAnimali([...animali, animaleCasuale]);
     }
+  }
 
-    function ListaAnimaliDinamica() {
-      const [animali, setAnimali] = useState([]);
-      const [showModal, setShowModal] = useState(false);
-      const [inputValue, setInputValue] = useState("");
+  return (
+    <>
+      <button onClick={aggiungiAnimaleCasuale}>Aggiungi Animale</button>
 
-      function confermaAnimale() {
-        if (inputValue.trim()) {
-          setAnimali([...animali, inputValue.trim()]);
-          setInputValue("");
-          setShowModal(false);
-        }
-      }
-
-      function annulla() {
-        setInputValue("");
-        setShowModal(false);
-      }
-
-      const inputContent = (
-        <input
-          type="text"
-          value={inputValue}
-          onChange={(e) => setInputValue(e.target.value)}
-          placeholder="Inserisci un animale"
-        />
-      );
-
-      return (
-        <>
-          <button onClick={() => setShowModal(true)}>Aggiungi animale</button>
-
-          <Modal
-            title="Nuovo animale"
-            content={inputContent}
-            show={showModal}
-            onClose={annulla}
-            onConfirm={confermaAnimale}
-          />
-
-          <details open>
-            <summary>Animali</summary>
-            <ul>
-              {animali.map((animale, i) => (
-                <li key={i}>{animale}</li>
-              ))}
-            </ul>
-          </details>
-        </>
-      );
-    }
+      <details open>
+        <summary>Animali</summary>
+        <ul>
+          {animali.map((animale, i) => (
+            <li key={i}>{animale}</li>
+          ))}
+        </ul>
+      </details>
+    </>
+  );
+}
 
     const root2 = ReactDOM.createRoot(document.querySelector(".lista-animali-dinamica"));
     root2.render(<ListaAnimaliDinamica />);
