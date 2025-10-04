@@ -6,6 +6,126 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>I miei animali Preferiti</title>
     <link rel="stylesheet" href="index.css">
+
+<!-- React e Babel -->
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+<!-- script JSX con babel -->
+<script type="text/babel">
+    //creo l'array
+    const animali = ["Gatto", "Cane", "Pappagallo", "Coniglio", "Cavallo"]
+
+    // creo componente con una funzione che al suo interno usi details e summary
+    // summary serve x visualizzare quello che vogliamo mostrare prima dell'espansione
+    // poi aggiungo quello che voglio vedere dopo l'espansione: lista ul che mappa sugli elementi dell'array
+    function ListaAnimali() {
+        return (
+            <details>
+                <summary>Animali</summary>
+                <ul>
+                    {animali.map((animale, i) => (
+                        <li key={i}> {animale} </li>
+                    ))}
+                </ul>
+            </details>
+    );
+  }
+    // renderizzo il componente dentro .lista-animali 
+    // const root = ReactDOM.createRoot(document.querySelector('.lista-animali'));
+    // root.render(<ListaAnimali />);
+</script>
+
+<!-- uso useState per gestire gli animali-->
+<script type="text/babel">
+  const { useState } = React;
+
+function ListaAnimaliDinamica() {
+  // Stati
+  const [animali, setAnimali] = useState([]);
+  const [showModal, setShowModal] = useState(false);
+  const [inputValue, setInputValue] = useState("");
+
+  // Funzioni
+  function confermaAnimale() {
+    if (inputValue.trim()) {
+      setAnimali([...animali, inputValue.trim()]);
+      setInputValue("");
+      setShowModal(false);
+    }
+  }
+
+  function annulla() {
+    setInputValue("");
+    setShowModal(false);
+  }
+
+  // Input da passare alla modale
+  const inputContent = (
+    <input
+      type="text"
+      value={inputValue}
+      onChange={(e) => setInputValue(e.target.value)}
+      placeholder="Inserisci un animale"
+    />
+  );
+
+  // JSX da renderizzare
+  return (
+    <>
+      <button onClick={() => setShowModal(true)}>Aggiungi animale</button>
+
+      <Modal
+        title="Nuovo animale"
+        content={inputContent}
+        show={showModal}
+        onClose={annulla}
+        onConfirm={confermaAnimale}
+      />
+
+      <details>
+        <summary>Animali</summary>
+        <ul>
+          {animali.map((animale, i) => (
+            <li key={i}>{animale}</li>
+          ))}
+        </ul>
+      </details>
+    </>
+  );
+}
+
+// script statico
+  const root2 = ReactDOM.createRoot(document.querySelector('.lista-animali'));
+  root2.render(<ListaAnimaliDinamica />);
+</script>
+
+<script type="text/babel">
+    function Modal({
+      title, 
+      content, 
+      show = false, 
+      onClose = () => {},
+      onConfirm = () => {}
+  }){
+      return show && ReactDOM.createPortal(
+          <div className="modal-container">
+              <div className="modal">
+                <h2>{title}</h2>
+                {content} 
+                <div className="modalButtons">
+                    <button onClick={onClose}>Annulla</button>
+                    <button onClick={onConfirm}>Conferma</button>
+                </div>
+              </div>
+           </div>,
+           document.body
+      )
+  }
+</script>
+
+
 </head>
 <body>
     <header>
