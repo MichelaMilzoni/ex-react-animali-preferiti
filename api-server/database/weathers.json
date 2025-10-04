@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "London",
+        "temperature": 18,
+        "weather_description": "Partly cloudy",
+        "humidity": 67,
+        "wind_speed": 12,
+        "pressure": 1012,
+        "visibility": 8000
+    },
+    {
+        "id": 2,
+        "name": "New York",
+        "temperature": 22,
+        "weather_description": "Sunny",
+        "humidity": 55,
+        "wind_speed": 10,
+        "pressure": 1015,
+        "visibility": 10000
+    },
+    {
+        "id": 3,
+        "name": "Tokyo",
+        "temperature": 25,
+        "weather_description": "Light rain",
+        "humidity": 80,
+        "wind_speed": 14,
+        "pressure": 1008,
+        "visibility": 6000
+    },
+    {
+        "id": 4,
+        "name": "Paris",
+        "temperature": 19,
+        "weather_description": "Overcast",
+        "humidity": 70,
+        "wind_speed": 9,
+        "pressure": 1013,
+        "visibility": 9000
+    },
+    {
+        "id": 5,
+        "name": "Cairo",
+        "temperature": 30,
+        "weather_description": "Sunny",
+        "humidity": 30,
+        "wind_speed": 18,
+        "pressure": 1005,
+        "visibility": 12000
+    },
+    {
+        "id": 6,
+        "name": "Moscow",
+        "temperature": 15,
+        "weather_description": "Cloudy",
+        "humidity": 60,
+        "wind_speed": 11,
+        "pressure": 1011,
+        "visibility": 8500
+    },
+    {
+        "id": 7,
+        "name": "Sydney",
+        "temperature": 20,
+        "weather_description": "Clear",
+        "humidity": 50,
+        "wind_speed": 13,
+        "pressure": 1017,
+        "visibility": 10000
+    },
+    {
+        "id": 8,
+        "name": "Rio de Janeiro",
+        "temperature": 28,
+        "weather_description": "Thunderstorms",
+        "humidity": 85,
+        "wind_speed": 20,
+        "pressure": 1003,
+        "visibility": 5000
+    },
+    {
+        "id": 9,
+        "name": "Berlin",
+        "temperature": 17,
+        "weather_description": "Drizzle",
+        "humidity": 72,
+        "wind_speed": 8,
+        "pressure": 1010,
+        "visibility": 7000
+    },
+    {
+        "id": 10,
+        "name": "Toronto",
+        "temperature": 16,
+        "weather_description": "Partly cloudy",
+        "humidity": 65,
+        "wind_speed": 10,
+        "pressure": 1014,
+        "visibility": 9500
+    },
+    {
+        "id": 11,
+        "name": "Bangkok",
+        "temperature": 32,
+        "weather_description": "Hot and humid",
+        "humidity": 90,
+        "wind_speed": 7,
+        "pressure": 1009,
+        "visibility": 7500
+    },
+    {
+        "id": 12,
+        "name": "Madrid",
+        "temperature": 26,
+        "weather_description": "Sunny",
+        "humidity": 40,
+        "wind_speed": 12,
+        "pressure": 1016,
+        "visibility": 11000
+    },
+    {
+        "id": 13,
+        "name": "Dubai",
+        "temperature": 38,
+        "weather_description": "Hot and dry",
+        "humidity": 20,
+        "wind_speed": 15,
+        "pressure": 1002,
+        "visibility": 12000
+    },
+    {
+        "id": 14,
+        "name": "Seoul",
+        "temperature": 21,
+        "weather_description": "Showers",
+        "humidity": 76,
+        "wind_speed": 9,
+        "pressure": 1010,
+        "visibility": 6500
+    },
+    {
+        "id": 15,
+        "name": "Buenos Aires",
+        "temperature": 23,
+        "weather_description": "Partly cloudy",
+        "humidity": 60,
+        "wind_speed": 14,
+        "pressure": 1012,
+        "visibility": 9500
+    },
+    {
+        "id": 16,
+        "name": "Rome",
+        "temperature": 24,
+        "weather_description": "Clear skies",
+        "humidity": 50,
+        "wind_speed": 8,
+        "pressure": 1018,
+        "visibility": 10000
+    },
+    {
+        "id": 17,
+        "name": "Beijing",
+        "temperature": 27,
+        "weather_description": "Haze",
+        "humidity": 68,
+        "wind_speed": 6,
+        "pressure": 1007,
+        "visibility": 4000
+    },
+    {
+        "id": 18,
+        "name": "Cape Town",
+        "temperature": 18,
+        "weather_description": "Windy",
+        "humidity": 59,
+        "wind_speed": 22,
+        "pressure": 1011,
+        "visibility": 10000
+    },
+    {
+        "id": 19,
+        "name": "Singapore",
+        "temperature": 31,
+        "weather_description": "Humid with thunderstorms",
+        "humidity": 88,
+        "wind_speed": 10,
+        "pressure": 1006,
+        "visibility": 8000
+    },
+    {
+        "id": 20,
+        "name": "Istanbul",
+        "temperature": 20,
+        "weather_description": "Mostly cloudy",
+        "humidity": 65,
+        "wind_speed": 11,
+        "pressure": 1013,
+        "visibility": 8800
+    },
+    {
+        "id": 21,
+        "name": "Los Angeles",
+        "temperature": 29,
+        "weather_description": "Sunny",
+        "humidity": 42,
+        "wind_speed": 9,
+        "pressure": 1014,
+        "visibility": 12000
+    },
+    {
+        "id": 22,
+        "name": "Athens",
+        "temperature": 27,
+        "weather_description": "Clear",
+        "humidity": 45,
+        "wind_speed": 13,
+        "pressure": 1015,
+        "visibility": 10000
+    },
+    {
+        "id": 23,
+        "name": "Jakarta",
+        "temperature": 30,
+        "weather_description": "Humid with rain",
+        "humidity": 88,
+        "wind_speed": 8,
+        "pressure": 1004,
+        "visibility": 7000
+    },
+    {
+        "id": 24,
+        "name": "Helsinki",
+        "temperature": 14,
+        "weather_description": "Cloudy",
+        "humidity": 70,
+        "wind_speed": 10,
+        "pressure": 1012,
+        "visibility": 8500
+    },
+    {
+        "id": 25,
+        "name": "Nairobi",
+        "temperature": 22,
+        "weather_description": "Scattered clouds",
+        "humidity": 60,
+        "wind_speed": 12,
+        "pressure": 1011,
+        "visibility": 9000
+    },
+    {
+        "id": 26,
+        "name": "Mexico City",
+        "temperature": 24,
+        "weather_description": "Thunderstorms",
+        "humidity": 78,
+        "wind_speed": 16,
+        "pressure": 1008,
+        "visibility": 6000
+    },
+    {
+        "id": 27,
+        "name": "Oslo",
+        "temperature": 16,
+        "weather_description": "Drizzle",
+        "humidity": 75,
+        "wind_speed": 7,
+        "pressure": 1010,
+        "visibility": 8000
+    },
+    {
+        "id": 28,
+        "name": "Lima",
+        "temperature": 20,
+        "weather_description": "Foggy",
+        "humidity": 85,
+        "wind_speed": 5,
+        "pressure": 1009,
+        "visibility": 3000
+    },
+    {
+        "id": 29,
+        "name": "Kuala Lumpur",
+        "temperature": 31,
+        "weather_description": "Rain showers",
+        "humidity": 89,
+        "wind_speed": 10,
+        "pressure": 1005,
+        "visibility": 7500
+    },
+    {
+        "id": 30,
+        "name": "Stockholm",
+        "temperature": 18,
+        "weather_description": "Mostly sunny",
+        "humidity": 58,
+        "wind_speed": 9,
+        "pressure": 1013,
+        "visibility": 9500
+    }
+]

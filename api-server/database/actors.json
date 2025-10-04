@@ -1,0 +1,407 @@
+[
+	{
+		"id": 1,
+		"name": "Marlon Brando",
+		"birth_year": 1924,
+		"death_year": 2004,
+		"nationality": "American",
+		"known_for": ["The Godfather", "A Streetcar Named Desire", "On the Waterfront"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Marlon Brando was an American actor and one of the most influential performers in the history of film. He is widely regarded as one of the greatest actors of all time.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Marlon_Brando_publicity_for_One-Eyed_Jacks.png/220px-Marlon_Brando_publicity_for_One-Eyed_Jacks.png"
+	},
+	{
+		"id": 2,
+		"name": "Robert De Niro",
+		"birth_year": 1943,
+		"nationality": "American",
+		"known_for": ["Taxi Driver", "Raging Bull", "Goodfellas"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Robert De Niro is an American actor, producer, and director known for his intense performances and collaborations with Martin Scorsese.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Robert_De_Niro_Cannes_2016_2.jpg/220px-Robert_De_Niro_Cannes_2016_2.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Al Pacino",
+		"birth_year": 1940,
+		"nationality": "American",
+		"known_for": ["The Godfather", "Scarface", "Scent of a Woman"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Al Pacino is an American actor and filmmaker known for his intense and iconic performances. He is considered one of the greatest actors in film history.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/220px-Al_Pacino_2016_%2830401544240%29.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Jack Nicholson",
+		"birth_year": 1937,
+		"nationality": "American",
+		"known_for": ["One Flew Over the Cuckoo's Nest", "The Shining", "Chinatown"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Jack Nicholson is an American actor and filmmaker known for his distinctive voice and memorable performances in various genres.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jack_Nicholson_2001.jpg/220px-Jack_Nicholson_2001.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Sean Connery",
+		"birth_year": 1930,
+		"death_year": 2020,
+		"nationality": "Scottish",
+		"known_for": ["James Bond Series", "The Untouchables", "The Hunt for Red October"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Sean Connery was a Scottish actor known for portraying the iconic character James Bond and his memorable performances in various films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sean_Connery_%281983%29.jpg/220px-Sean_Connery_%281983%29.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Russell Crowe",
+		"birth_year": 1964,
+		"nationality": "New Zealand",
+		"known_for": ["Gladiator", "A Beautiful Mind", "Master and Commander"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Russell Crowe is a New Zealand actor known for his powerful and commanding presence on screen.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Russell_Crowe_%2833994020424%29.jpg/220px-Russell_Crowe_%2833994020424%29.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Robert Duvall",
+		"birth_year": 1931,
+		"nationality": "American",
+		"known_for": ["The Godfather", "Apocalypse Now", "Tender Mercies"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Robert Duvall is an American actor known for his memorable and critically acclaimed performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Robert_Duvall_1.jpg/220px-Robert_Duvall_1.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Tom Hanks",
+		"birth_year": 1956,
+		"nationality": "American",
+		"known_for": ["Forrest Gump", "Saving Private Ryan", "Cast Away"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Tom Hanks is an American actor and filmmaker known for his heartwarming performances in various acclaimed films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tom_Hanks_TIFF_2019.jpg/220px-Tom_Hanks_TIFF_2019.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Denzel Washington",
+		"birth_year": 1954,
+		"nationality": "American",
+		"known_for": ["Training Day", "Glory", "Malcolm X"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Denzel Washington is an American actor known for his powerful and versatile performances in a wide range of films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Denzel_Washington_2018.jpg/220px-Denzel_Washington_2018.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Shah Rukh Khan",
+		"birth_year": 1965,
+		"nationality": "Indian",
+		"known_for": ["Dilwale Dulhania Le Jayenge", "My Name Is Khan", "Chak De! India"],
+		"awards": ["Filmfare Award", "Padma Shri"],
+		"biography": "Shah Rukh Khan, also known as SRK, is an Indian actor known as the 'King of Bollywood' for his contributions to Indian cinema.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg/220px-Shah_Rukh_Khan_graces_the_launch_of_the_new_Santro.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Anthony Hopkins",
+		"birth_year": 1937,
+		"nationality": "British",
+		"known_for": ["The Silence of the Lambs", "The Remains of the Day", "Amistad"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Anthony Hopkins is a Welsh actor known for his powerful and compelling performances in both film and stage.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/AnthonyHopkins10TIFF.jpg/220px-AnthonyHopkins10TIFF.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Dustin Hoffman",
+		"birth_year": 1937,
+		"nationality": "American",
+		"known_for": ["Rain Man", "The Graduate", "Tootsie"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Dustin Hoffman is an American actor known for his versatility and exceptional performances in a wide range of roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dustin_Hoffman_Quartet_avp_2013_2.jpg/220px-Dustin_Hoffman_Quartet_avp_2013_2.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Tom Hardy",
+		"birth_year": 1977,
+		"nationality": "British",
+		"known_for": ["Inception", "Mad Max: Fury Road", "The Dark Knight Rises"],
+		"awards": ["None"],
+		"biography": "Tom Hardy is a British actor known for his intense and captivating performances in various films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Hardy_by_Gage_Skidmore.jpg/220px-Tom_Hardy_by_Gage_Skidmore.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Chris Hemsworth",
+		"birth_year": 1983,
+		"nationality": "Australian",
+		"known_for": ["Thor", "The Avengers", "Snow White and the Huntsman"],
+		"awards": ["None"],
+		"biography": "Chris Hemsworth is an Australian actor known for his portrayal of Thor in the Marvel Cinematic Universe and his roles in various action films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg/220px-Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Tommy Lee Jones",
+		"birth_year": 1946,
+		"nationality": "American",
+		"known_for": ["The Fugitive", "No Country for Old Men", "Men in Black"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Tommy Lee Jones is an American actor known for his powerful and stoic portrayals of various characters.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tommy_Lee_Jones_2017.jpg/220px-Tommy_Lee_Jones_2017.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Leonardo DiCaprio",
+		"birth_year": 1974,
+		"nationality": "American",
+		"known_for": ["Titanic", "The Revenant", "The Wolf of Wall Street"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Leonardo DiCaprio is an American actor and environmental activist known for his dedication to his craft and socially conscious roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/220px-Leonardo_Dicaprio_Cannes_2019.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Morgan Freeman",
+		"birth_year": 1937,
+		"nationality": "American",
+		"known_for": ["The Shawshank Redemption", "Driving Miss Daisy", "Million Dollar Baby"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Morgan Freeman is an American actor known for his powerful and authoritative presence on screen.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg/220px-Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_%28cropped%29.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Johnny Depp",
+		"birth_year": 1963,
+		"nationality": "American",
+		"known_for": ["Pirates of the Caribbean Series", "Edward Scissorhands", "Finding Neverland"],
+		"awards": ["Golden Globe"],
+		"biography": "Johnny Depp is an American actor known for his versatile and eccentric portrayals of various characters.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Johnny_Depp_2020.jpg/220px-Johnny_Depp_2020.jpg"
+	},
+	{
+		"id": 19,
+		"name": "Humphrey Bogart",
+		"birth_year": 1899,
+		"death_year": 1957,
+		"nationality": "American",
+		"known_for": ["Casablanca", "The Maltese Falcon", "The Treasure of the Sierra Madre"],
+		"awards": ["Oscar"],
+		"biography": "Humphrey Bogart was an American actor known for his tough-guy persona and classic roles in film noir.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Humphrey_Bogart_1940.jpg/220px-Humphrey_Bogart_1940.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Daniel Craig",
+		"birth_year": 1968,
+		"nationality": "British",
+		"known_for": ["Casino Royale", "Skyfall", "Spectre"],
+		"awards": ["None"],
+		"biography": "Daniel Craig is a British actor known for his portrayal of James Bond and his dedication to performing his own stunts.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Daniel_Craig_in_2021.jpg/220px-Daniel_Craig_in_2021.jpg"
+	},
+	{
+		"id": 21,
+		"name": "Christian Bale",
+		"birth_year": 1974,
+		"nationality": "British",
+		"known_for": ["The Dark Knight Trilogy", "American Psycho", "The Fighter"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Christian Bale is a British actor known for his transformative performances and dedication to his roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Christian_Bale-7837.jpg/220px-Christian_Bale-7837.jpg"
+	},
+	{
+		"id": 22,
+		"name": "Gary Oldman",
+		"birth_year": 1958,
+		"nationality": "British",
+		"known_for": ["Darkest Hour", "The Dark Knight", "Tinker Tailor Soldier Spy"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Gary Oldman is a British actor known for his chameleon-like ability to portray a wide range of characters.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gary_Oldman_%2813948780853%29_%28cropped%29.jpg/220px-Gary_Oldman_%2813948780853%29_%28cropped%29.jpg"
+	},
+	{
+		"id": 23,
+		"name": "Christopher Lee",
+		"birth_year": 1922,
+		"death_year": 2015,
+		"nationality": "British",
+		"known_for": ["Dracula", "The Lord of the Rings Trilogy", "Star Wars Episode II & III"],
+		"awards": ["None"],
+		"biography": "Christopher Lee was a British actor known for his iconic portrayal of Count Dracula and memorable roles in fantasy films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg/220px-Christopher_Lee_at_the_Berlin_International_Film_Festival_2013.jpg"
+	},
+	{
+		"id": 24,
+		"name": "Heath Ledger",
+		"birth_year": 1979,
+		"death_year": 2008,
+		"nationality": "Australian",
+		"known_for": ["The Dark Knight", "Brokeback Mountain", "A Knight's Tale"],
+		"awards": ["Oscar"],
+		"biography": "Heath Ledger was an Australian actor known for his extraordinary and Oscar-winning performance as the Joker in 'The Dark Knight'.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/220px-Heath_Ledger_%282%29.jpg"
+	},
+	{
+		"id": 25,
+		"name": "Benedict Cumberbatch",
+		"birth_year": 1976,
+		"nationality": "British",
+		"known_for": ["Sherlock", "Doctor Strange", "The Imitation Game"],
+		"awards": ["Golden Globe", "Emmy"],
+		"biography": "Benedict Cumberbatch is a British actor known for his brilliant and versatile performances in both television and film.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BCumberbatch_Comic-Con_2019.jpg/220px-BCumberbatch_Comic-Con_2019.jpg"
+	},
+	{
+		"id": 26,
+		"name": "Jackie Chan",
+		"birth_year": 1954,
+		"nationality": "Hong Kong",
+		"known_for": ["Rush Hour series", "Police Story series", "Drunken Master"],
+		"awards": ["Honorary Oscar", "Golden Horse Award"],
+		"biography": "Jackie Chan is a Hong Kong actor, martial artist, and filmmaker known for his action-comedy roles and impressive stunts.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Jackie_Chan_Cannes_2012_%28cropped%29.jpg/220px-Jackie_Chan_Cannes_2012_%28cropped%29.jpg"
+	},
+	{
+		"id": 27,
+		"name": "Idris Elba",
+		"birth_year": 1972,
+		"nationality": "British",
+		"known_for": ["Luther", "Beasts of No Nation", "Thor"],
+		"awards": ["Golden Globe"],
+		"biography": "Idris Elba is a British actor known for his compelling performances in both television and film.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Idris_Elba-4580_%28cropped%29.jpg/220px-Idris_Elba-4580_%28cropped%29.jpg"
+	},
+	{
+		"id": 28,
+		"name": "Javier Bardem",
+		"birth_year": 1969,
+		"nationality": "Spanish",
+		"known_for": ["No Country for Old Men", "Skyfall", "Biutiful"],
+		"awards": ["Oscar"],
+		"biography": "Javier Bardem is a Spanish actor known for his powerful and memorable performances in a wide range of roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Premios_Goya_2018_-_Javier_Bardem_%28cropped%29.jpg/220px-Premios_Goya_2018_-_Javier_Bardem_%28cropped%29.jpg"
+	},
+	{
+		"id": 29,
+		"name": "Jeff Bridges",
+		"birth_year": 1949,
+		"nationality": "American",
+		"known_for": ["The Big Lebowski", "Crazy Heart", "True Grit"],
+		"awards": ["Oscar"],
+		"biography": "Jeff Bridges is an American actor known for his laid-back and charismatic performances in a variety of roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Jeff_Bridges_by_Gage_Skidmore_3.jpg/220px-Jeff_Bridges_by_Gage_Skidmore_3.jpg"
+	},
+	{
+		"id": 30,
+		"name": "Matt Damon",
+		"birth_year": 1970,
+		"nationality": "American",
+		"known_for": ["Good Will Hunting", "The Bourne Identity", "The Martian"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Matt Damon is an American actor known for his versatile and compelling performances in a wide range of films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Matt_Damon%2C_Berlinale_2023_%28cropped%29.jpg/220px-Matt_Damon%2C_Berlinale_2023_%28cropped%29.jpg"
+	},
+	{
+		"id": 31,
+		"name": "Michael Fassbender",
+		"birth_year": 1977,
+		"nationality": "German",
+		"known_for": ["Inglourious Basterds", "Shame", "Steve Jobs"],
+		"awards": ["Golden Globe"],
+		"biography": "Michael Fassbender is a German-born actor known for his intense and captivating performances in a wide range of films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Michael_Fassbender_by_Gage_Skidmore_2015.jpg/220px-Michael_Fassbender_by_Gage_Skidmore_2015.jpg"
+	},
+	{
+		"id": 32,
+		"name": "Amitabh Bachchan",
+		"birth_year": 1942,
+		"nationality": "Indian",
+		"known_for": ["Sholay", "Deewar", "Zanjeer"],
+		"awards": ["National Film Award", "Filmfare Award"],
+		"biography": "Amitabh Bachchan is an Indian actor known for his iconic roles in Bollywood films and his contributions to the Indian film industry.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Indian_actor_Amitabh_Bachchan.jpg/220px-Indian_actor_Amitabh_Bachchan.jpg"
+	},
+	{
+		"id": 33,
+		"name": "Gary Sinise",
+		"birth_year": 1955,
+		"nationality": "American",
+		"known_for": ["Forrest Gump", "Apollo 13", "CSI: NY"],
+		"awards": ["Emmy", "Golden Globe"],
+		"biography": "Gary Sinise is an American actor known for his roles in acclaimed films and his work in television.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Gary_Sinise_2011_%28cropped%29.jpg/220px-Gary_Sinise_2011_%28cropped%29.jpg"
+	},
+	{
+		"id": 34,
+		"name": "Jude Law",
+		"birth_year": 1972,
+		"nationality": "British",
+		"known_for": ["The Talented Mr. Ripley", "Sherlock Holmes", "Cold Mountain"],
+		"awards": ["BAFTA", "Golden Globe"],
+		"biography": "Jude Law is a British actor known for his charismatic performances in a variety of film roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jude_Law_-_Headshot.jpg/220px-Jude_Law_-_Headshot.jpg"
+	},
+	{
+		"id": 35,
+		"name": "Ryan Gosling",
+		"birth_year": 1980,
+		"nationality": "Canadian",
+		"known_for": ["La La Land", "Drive", "The Notebook"],
+		"awards": ["Golden Globe"],
+		"biography": "Ryan Gosling is a Canadian actor known for his charismatic performances in a variety of genres.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ryan_Gosling_in_2018.jpg/220px-Ryan_Gosling_in_2018.jpg"
+	},
+	{
+		"id": 36,
+		"name": "Hugh Jackman",
+		"birth_year": 1968,
+		"nationality": "Australian",
+		"known_for": ["Logan", "Les Misérables", "The Prestige"],
+		"awards": ["Golden Globe"],
+		"biography": "Hugh Jackman is an Australian actor known for his portrayal of Wolverine in the X-Men series and his diverse roles in various films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logan_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838445328406%29_%28rotated%29.jpg/220px-Logan_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838445328406%29_%28rotated%29.jpg"
+	},
+	{
+		"id": 37,
+		"name": "Liam Neeson",
+		"birth_year": 1952,
+		"nationality": "Irish",
+		"known_for": ["Taken", "Schindler's List", "The Dark Knight Trilogy"],
+		"awards": ["Golden Globe"],
+		"biography": "Liam Neeson is an Irish actor known for his intense performances in action films and his powerful portrayals in dramatic roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Liam_Neeson_Deauville_2012.jpg/220px-Liam_Neeson_Deauville_2012.jpg"
+	},
+	{
+		"id": 38,
+		"name": "Brad Pitt",
+		"birth_year": 1963,
+		"nationality": "American",
+		"known_for": ["Fight Club", "Inglourious Basterds", "The Curious Case of Benjamin Button"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Brad Pitt is an American actor known for his versatile performances and his contributions to both film and humanitarian causes.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brad_Pitt_2019_by_Glenn_Francis.jpg/220px-Brad_Pitt_2019_by_Glenn_Francis.jpg"
+	},
+	{
+		"id": 39,
+		"name": "Daniel Day-Lewis",
+		"birth_year": 1957,
+		"nationality": "British",
+		"known_for": ["There Will Be Blood", "Lincoln", "My Left Foot"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Daniel Day-Lewis is a British actor known for his method acting and dedication to his roles, earning him numerous accolades.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Daniel_Day-Lewis%2C_Jaguar%2C_Mille_Miglia_2013_cropped.jpg/220px-Daniel_Day-Lewis%2C_Jaguar%2C_Mille_Miglia_2013_cropped.jpg"
+	},
+	{
+		"id": 40,
+		"name": "Joaquin Phoenix",
+		"birth_year": 1974,
+		"nationality": "American",
+		"known_for": ["Joker", "Walk the Line", "Her"],
+		"awards": ["Oscar", "Golden Globe"],
+		"biography": "Joaquin Phoenix is an American actor known for his transformative and emotionally charged performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Joaquin_Phoenix_at_the_2018_Berlin_Film_Festival.jpg/220px-Joaquin_Phoenix_at_the_2018_Berlin_Film_Festival.jpg"
+	}
+]

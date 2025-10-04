@@ -1,0 +1,362 @@
+[
+    {
+        "author": "Harper Lee",
+        "cover_image": "https://fakeimg",
+        "description": "A novel about racial injustice",
+        "genre": [
+            "Classic",
+            "Historical Fiction"
+        ],
+        "id": 1,
+        "publication_year": 1960,
+        "title": "To Kill a Mockingbird"
+    },
+    {
+        "author": "George Orwell",
+        "cover_image": "https://fakeimg",
+        "description": "A dystopian nove",
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "id": 2,
+        "publication_year": 1949,
+        "title": "1984"
+    },
+    {
+        "author": "F. Scott Fitzgerald",
+        "cover_image": "https://fakeimg",
+        "description": "A novel set in the Jazz Age",
+        "genre": [
+            "Classic",
+            "Tragedy"
+        ],
+        "id": 3,
+        "publication_year": 1925,
+        "title": "The Great Gatsby"
+    },
+    {
+        "author": "Jane Austen",
+        "cover_image": "https://fakeimg",
+        "description": "A romantic novel of manners",
+        "genre": [
+            "Romance",
+            "Classic"
+        ],
+        "id": 4,
+        "publication_year": 1813,
+        "title": "Pride and Prejudice"
+    },
+    {
+        "author": "Gabriel García Márquez",
+        "cover_image": "https://fakeimg",
+        "description": "A multigenerational story",
+        "genre": [
+            "Magical Realism",
+            "Historical"
+        ],
+        "id": 5,
+        "publication_year": 1967,
+        "title": "One Hundred Years of Solitude"
+    },
+    {
+        "author": "Mary Shelley",
+        "cover_image": "https://fakeimg",
+        "description": "A gothic science fiction novel",
+        "genre": [
+            "Gothic",
+            "Science Fiction"
+        ],
+        "id": 6,
+        "publication_year": 1818,
+        "title": "Frankenstein"
+    },
+    {
+        "author": "J.D. Salinger",
+        "cover_image": "https://fakeim",
+        "description": "A classic comi",
+        "genre": [
+            "Fiction",
+            "Coming-of-Age"
+        ],
+        "id": 7,
+        "publication_year": 1951,
+        "title": "The Catcher in the Rye"
+    },
+    {
+        "author": "George R.R. Martin",
+        "cover_image": "https://fakeimg",
+        "description": "The first in the epic fantasy series",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "id": 8,
+        "publication_year": 1996,
+        "title": "A Game of Thrones"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "cover_image": "https://fakeimg",
+        "description": "An epic quest in Middle-earth",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "id": 9,
+        "publication_year": 1954,
+        "title": "The Fellowship of the Ring"
+    },
+    {
+        "author": "Leo Tolstoy",
+        "cover_image": "https://fakeimg",
+        "description": "A sweeping novel of Russian society",
+        "genre": [
+            "Historical Fiction",
+            "Classic"
+        ],
+        "id": 10,
+        "publication_year": 1869,
+        "title": "War and Peace"
+    },
+    {
+        "author": "Mark Twain",
+        "cover_image": "https://fakeimg",
+        "description": "A boy's adventures on the Mississippi",
+        "genre": [
+            "Adventure",
+            "Classic"
+        ],
+        "id": 11,
+        "publication_year": 1884,
+        "title": "Adventures of Huckleberry Finn"
+    },
+    {
+        "author": "Emily Brontë",
+        "cover_image": "https://fakeimg",
+        "description": "A tale of passion and revenge",
+        "genre": [
+            "Gothic",
+            "Romance"
+        ],
+        "id": 12,
+        "publication_year": 1847,
+        "title": "Wuthering Heights"
+    },
+    {
+        "author": "Fyodor Dostoevsky",
+        "cover_image": "https://fakeim",
+        "description": "A complex nove",
+        "genre": [
+            "Classic",
+            "Philosophical"
+        ],
+        "id": 13,
+        "publication_year": 1880,
+        "title": "The Brothers Karamazov"
+    },
+    {
+        "author": "Margaret Atwood",
+        "cover_image": "https://fakeimg",
+        "description": "A speculative dystopian tale",
+        "genre": [
+            "Dystopian",
+            "Feminist Fiction"
+        ],
+        "id": 14,
+        "publication_year": 1985,
+        "title": "The Handmaid's Tale"
+    },
+    {
+        "author": "Aldous Huxley",
+        "cover_image": "https://fakeimg",
+        "description": "A futuristic society controlled by pleasure",
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "id": 15,
+        "publication_year": 1932,
+        "title": "Brave New World"
+    },
+    {
+        "author": "Herman Melville",
+        "cover_image": "https://fakeimg",
+        "description": "A sea captain's obsession",
+        "genre": [
+            "Adventure",
+            "Classic"
+        ],
+        "id": 16,
+        "publication_year": 1851,
+        "title": "Moby-Dick"
+    },
+    {
+        "author": "Charlotte Brontë",
+        "cover_image": "https://fakeimg",
+        "description": "A young woman's journey to independence",
+        "genre": [
+            "Classic",
+            "Romance"
+        ],
+        "id": 17,
+        "publication_year": 1847,
+        "title": "Jane Eyre"
+    },
+    {
+        "author": "Ernest Hemingway",
+        "cover_image": "https://fakeimg",
+        "description": "An old man's battle with a giant marlin",
+        "genre": [
+            "Fiction",
+            "Classic"
+        ],
+        "id": 18,
+        "publication_year": 1952,
+        "title": "The Old Man and the Sea"
+    },
+    {
+        "author": "Paulo Coelho",
+        "cover_image": "https://fakeim",
+        "description": "A philosophical tale",
+        "genre": [
+            "Adventure",
+            "Philosophical"
+        ],
+        "id": 19,
+        "publication_year": 1988,
+        "title": "The Alchemist"
+    },
+    {
+        "author": "Ray Bradbury",
+        "cover_image": "https://fakeimg",
+        "description": "A world where books are banned",
+        "genre": [
+            "Dystopian",
+            "Science Fiction"
+        ],
+        "id": 20,
+        "publication_year": 1953,
+        "title": "Fahrenheit 451"
+    },
+    {
+        "author": "Homer",
+        "cover_image": "https://fakeim",
+        "description": "An epic poem",
+        "genre": [
+            "Epic",
+            "Mythology"
+        ],
+        "id": 21,
+        "publication_year": -800,
+        "title": "The Iliad"
+    },
+    {
+        "author": "Virginia Woolf",
+        "cover_image": "https://fakeimg",
+        "description": "A stream-of-consciousness narrative",
+        "genre": [
+            "Modernist",
+            "Classic"
+        ],
+        "id": 22,
+        "publication_year": 1925,
+        "title": "Mrs Dalloway"
+    },
+    {
+        "author": "Franz Kafka",
+        "cover_image": "https://fakeimg",
+        "description": "A man turns into a giant insect",
+        "genre": [
+            "Absurdist",
+            "Classic"
+        ],
+        "id": 23,
+        "publication_year": 1915,
+        "title": "The Metamorphosis"
+    },
+    {
+        "author": "George Eliot",
+        "cover_image": "https://fakeimg",
+        "description": "A portrait of rural life in England",
+        "genre": [
+            "Classic",
+            "Historical"
+        ],
+        "id": 24,
+        "publication_year": 1874,
+        "title": "Middlemarch"
+    },
+    {
+        "author": "Oscar Wilde",
+        "cover_image": "https://fakeimg",
+        "description": "A man who never ages",
+        "genre": [
+            "Philosophical",
+            "Gothic"
+        ],
+        "id": 25,
+        "publication_year": 1890,
+        "title": "The Picture of Dorian Gray"
+    },
+    {
+        "author": "Jules Verne",
+        "cover_image": "https://fakeimg",
+        "description": "A journey beneath the sea",
+        "genre": [
+            "Adventure",
+            "Science Fiction"
+        ],
+        "id": 26,
+        "publication_year": 1870,
+        "title": "Twenty Thousand Leagues Under the Sea"
+    },
+    {
+        "author": "Kurt Vonnegut",
+        "cover_image": "https://fakeimg",
+        "description": "A darkly satirical anti-war novel",
+        "genre": [
+            "Science Fiction",
+            "Satire"
+        ],
+        "id": 27,
+        "publication_year": 1969,
+        "title": "Slaughterhouse-Five"
+    },
+    {
+        "author": "Dante Alighieri",
+        "cover_image": "https://fakeimg",
+        "description": "A journey through Hell",
+        "genre": [
+            "Epic",
+            "Religious"
+        ],
+        "id": 28,
+        "publication_year": 1320,
+        "title": "Inferno"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "cover_image": "https://fakeimg",
+        "description": "A philosophical tale of a young prince",
+        "genre": [
+            "Fable",
+            "Philosophical"
+        ],
+        "id": 29,
+        "publication_year": 1943,
+        "title": "The Little Prince"
+    },
+    {
+        "author": "John Steinbeck",
+        "cover_image": "https://fakeimg",
+        "description": "A migrant family's journey in the Dust Bowl",
+        "genre": [
+            "Historical Fiction",
+            "Classic"
+        ],
+        "id": 30,
+        "publication_year": 1939,
+        "title": "The Grapes of Wrath"
+    }
+]

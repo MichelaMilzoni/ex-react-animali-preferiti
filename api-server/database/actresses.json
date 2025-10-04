@@ -1,0 +1,407 @@
+[
+	{
+		"id": 1,
+		"name": "Meryl Streep",
+		"birth_year": 1949,
+		"nationality": "American",
+		"most_famous_movies": ["The Devil Wears Prada", "Sophie's Choice", "Kramer vs. Kramer"],
+		"awards": "3 Academy Awards, 9 Golden Globe Awards",
+		"biography": "Meryl Streep is considered one of the greatest actresses of her generation and has received numerous accolades for her versatile performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Meryl_Streep_December_2018.jpg/220px-Meryl_Streep_December_2018.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Katharine Hepburn",
+		"birth_year": 1907,
+		"death_year": 2003,
+		"nationality": "American",
+		"most_famous_movies": ["The African Queen", "Bringing Up Baby", "On Golden Pond"],
+		"awards": "4 Academy Awards, 8 Golden Globe Awards",
+		"biography": "Katharine Hepburn was a legendary actress known for her independent spirit and strong on-screen presence.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Katharine_Hepburn_publicity_photograph.jpg/800px-Katharine_Hepburn_publicity_photograph.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Audrey Hepburn",
+		"birth_year": 1929,
+		"death_year": 1993,
+		"nationality": "British",
+		"most_famous_movies": ["Breakfast at Tiffany's", "Roman Holiday", "My Fair Lady"],
+		"awards": "1 Academy Award, 3 Golden Globe Awards",
+		"biography": "Audrey Hepburn was a beloved actress and fashion icon, known for her elegance and timeless performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Audrey_Hepburn_1956.jpg/220px-Audrey_Hepburn_1956.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Cate Blanchett",
+		"birth_year": 1969,
+		"nationality": "Australian",
+		"most_famous_movies": ["Blue Jasmine", "The Aviator", "Carol"],
+		"awards": "2 Academy Awards, 3 Golden Globe Awards",
+		"biography": "Cate Blanchett is a highly acclaimed actress known for her extraordinary range and exceptional talent in both drama and period films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg/220px-Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Judy Garland",
+		"birth_year": 1922,
+		"death_year": 1969,
+		"nationality": "American",
+		"most_famous_movies": ["The Wizard of Oz", "A Star Is Born", "Meet Me in St. Louis"],
+		"awards": "1 Academy Award, 1 Golden Globe Award",
+		"biography": "Judy Garland was a legendary actress and singer, best known for her iconic role as Dorothy in 'The Wizard of Oz.'",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Judy_Garland_publicity_photo.jpg/220px-Judy_Garland_publicity_photo.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Marilyn Monroe",
+		"birth_year": 1926,
+		"death_year": 1962,
+		"nationality": "American",
+		"most_famous_movies": ["Some Like It Hot", "Gentlemen Prefer Blondes", "The Seven Year Itch"],
+		"awards": "1 Golden Globe Award",
+		"biography": "Marilyn Monroe was an iconic actress and symbol of beauty and glamour in Hollywood during the 1950s and early 1960s.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/220px-Monroecirca1953.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Maggie Smith",
+		"birth_year": 1934,
+		"nationality": "British",
+		"most_famous_movies": ["The Prime of Miss Jean Brodie", "Harry Potter Series", "Downton Abbey"],
+		"awards": "2 Academy Awards, 5 Emmy Awards",
+		"biography": "Maggie Smith is a distinguished British actress known for her remarkable talent and memorable roles on both stage and screen.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Dame_Maggie_Smith-cropped_%28cropped%29.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Jodie Foster",
+		"birth_year": 1962,
+		"nationality": "American",
+		"most_famous_movies": ["The Silence of the Lambs", "Taxi Driver", "The Accused"],
+		"awards": "2 Academy Awards, 3 Golden Globe Awards",
+		"biography": "Jodie Foster is an accomplished actress and director, known for her powerful performances and contributions to the film industry.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jodie_Foster_C%C3%A9sars_2011_2_%28cropped%29.jpg/220px-Jodie_Foster_C%C3%A9sars_2011_2_%28cropped%29.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Natalie Portman",
+		"birth_year": 1981,
+		"nationality": "Israeli-American",
+		"most_famous_movies": ["Black Swan", "V for Vendetta", "Leon: The Professional"],
+		"awards": "1 Academy Award, 1 Golden Globe Award",
+		"biography": "Natalie Portman is a versatile actress and filmmaker, known for her exceptional performances and commitment to her craft.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Natalie_Portman_%2848470988352%29_%28cropped%29.jpg/220px-Natalie_Portman_%2848470988352%29_%28cropped%29.jpg"
+	},
+	{
+		"id": 10,
+		"name": "Julia Roberts",
+		"birth_year": 1967,
+		"nationality": "American",
+		"most_famous_movies": ["Pretty Woman", "Erin Brockovich", "Notting Hill"],
+		"awards": "1 Academy Award, 3 Golden Globe Awards",
+		"biography": "Julia Roberts is a beloved actress known for her charming and engaging performances in various romantic comedies and dramas.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Julia_Roberts_2011_Shankbone_3.JPG/220px-Julia_Roberts_2011_Shankbone_3.JPG"
+	},
+	{
+		"id": 11,
+		"name": "Angelina Jolie",
+		"birth_year": 1975,
+		"nationality": "American",
+		"most_famous_movies": ["Maleficent", "Lara Croft: Tomb Raider", "Changeling"],
+		"awards": "1 Academy Award, 3 Golden Globe Awards",
+		"biography": "Angelina Jolie is a renowned actress known for her captivating performances and humanitarian work.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Under_Secretary_Zeya_Meets_With_UNHCR_Special_Envoy_Jolie_%2851942861677%29_%28cropped%29.jpg/220px-Under_Secretary_Zeya_Meets_With_UNHCR_Special_Envoy_Jolie_%2851942861677%29_%28cropped%29.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Charlize Theron",
+		"birth_year": 1975,
+		"nationality": "South African",
+		"most_famous_movies": ["Monster", "Mad Max: Fury Road", "The Devil's Advocate"],
+		"awards": "1 Academy Award, 1 Golden Globe Award",
+		"biography": "Charlize Theron is a talented actress known for her dedication to roles and her ability to portray complex characters.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Charlize-theron-IMG_6045.jpg/220px-Charlize-theron-IMG_6045.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Emma Watson",
+		"birth_year": 1990,
+		"nationality": "British",
+		"most_famous_movies": ["Harry Potter series", "Beauty and the Beast", "Little Women"],
+		"awards": "1 BAFTA Award, 1 MTV Movie Award",
+		"biography": "Emma Watson is a talented actress known for her iconic role as Hermione Granger in the Harry Potter film series.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Emma_Watson_2013.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Margot Robbie",
+		"birth_year": 1990,
+		"nationality": "Australian",
+		"most_famous_movies": ["The Wolf of Wall Street", "Suicide Squad", "I, Tonya"],
+		"awards": "1 Academy Award nomination, 1 Golden Globe Award",
+		"biography": "Margot Robbie is an Australian actress and film producer, known for her versatile roles and compelling performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/3/33/SYDNEY%2C_AUSTRALIA_-_JANUARY_23_Margot_Robbie_arrives_at_the_Australian_Premiere_of_%27I%2C_Tonya%27_on_January_23%2C_2018_in_Sydney%2C_Australia_%2828074883999%29_%28cropped%29.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Julianne Moore",
+		"birth_year": 1960,
+		"nationality": "American",
+		"most_famous_movies": ["Still Alice", "Boogie Nights", "The Hours"],
+		"awards": "1 Academy Award, 2 Golden Globe Awards",
+		"biography": "Julianne Moore is an accomplished actress known for her versatile roles and strong performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Julianne_Moore_%2815011443428%29_%282%29.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Helen Mirren",
+		"birth_year": 1945,
+		"nationality": "British",
+		"most_famous_movies": ["The Queen", "Prime Suspect", "Hitchcock"],
+		"awards": "1 Academy Award, 4 Emmy Awards",
+		"biography": "Helen Mirren is a distinguished actress known for her extraordinary talent and exceptional performances on stage and screen.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Helen_Mirren-2208_%28cropped%29.jpg/800px-Helen_Mirren-2208_%28cropped%29.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Viola Davis",
+		"birth_year": 1965,
+		"nationality": "American",
+		"most_famous_movies": ["Fences", "The Help", "Doubt"],
+		"awards": "1 Academy Award, 2 Emmy Awards",
+		"biography": "Viola Davis is a powerful and versatile actress recognized for her captivating portrayals and profound impact on the entertainment industry.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Viola_Davis_by_Gage_Skidmore.jpg/800px-Viola_Davis_by_Gage_Skidmore.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Natalie Wood",
+		"birth_year": 1938,
+		"death_year": 1981,
+		"nationality": "American",
+		"most_famous_movies": ["West Side Story", "Rebel Without a Cause", "Splendor in the Grass"],
+		"awards": "3 Academy Award Nominations, 2 Golden Globe Awards",
+		"biography": "Natalie Wood was a talented and beloved actress, known for her radiant performances and contributions to classic Hollywood films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Natalie_Wood_Allan_Warren.jpg/800px-Natalie_Wood_Allan_Warren.jpg"
+	},
+	{
+		"id": 19,
+		"name": "Emilia Clarke",
+		"birth_year": 1986,
+		"nationality": "British",
+		"most_famous_movies": ["Game of Thrones", "Me Before You", "Terminator Genisys"],
+		"awards": "1 Primetime Emmy Award",
+		"biography": "Emilia Clarke is a talented British actress best known for her iconic role as Daenerys Targaryen in the hit series Game of Thrones.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Emilia_Clarke_Dior_Rose_des_Vents.jpg/800px-Emilia_Clarke_Dior_Rose_des_Vents.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Catherine Deneuve",
+		"birth_year": 1943,
+		"nationality": "French",
+		"most_famous_movies": ["Belle de Jour", "The Umbrellas of Cherbourg", "Indochine"],
+		"awards": "2 César Awards, 1 BAFTA Award",
+		"biography": "Catherine Deneuve is a legendary French actress known for her elegance, grace, and remarkable contributions to cinema.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Catherine_Deneuve_Berlinale_2017.jpg/800px-Catherine_Deneuve_Berlinale_2017.jpg"
+	},
+	{
+		"id": 21,
+		"name": "Scarlett Johansson",
+		"birth_year": 1984,
+		"nationality": "American",
+		"most_famous_movies": ["Lost in Translation", "The Avengers", "Marriage Story"],
+		"awards": "2 BAFTA Awards, 1 Tony Award",
+		"biography": "Scarlett Johansson is a versatile actress known for her strong performances in both independent films and blockbuster franchises.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%2C_2%29.jpg/800px-Scarlett_Johansson_by_Gage_Skidmore_2_%28cropped%2C_2%29.jpg"
+	},
+	{
+		"id": 22,
+		"name": "Emma Stone",
+		"birth_year": 1988,
+		"nationality": "American",
+		"most_famous_movies": ["La La Land", "The Help", "Birdman"],
+		"awards": "1 Academy Award, 1 BAFTA Award",
+		"biography": "Emma Stone is a talented and versatile actress known for her engaging performances and captivating on-screen presence.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg"
+	},
+	{
+		"id": 23,
+		"name": "Jennifer Lawrence",
+		"birth_year": 1990,
+		"nationality": "American",
+		"most_famous_movies": ["The Hunger Games", "Silver Linings Playbook", "Joy"],
+		"awards": "1 Academy Award, 3 Golden Globe Awards",
+		"biography": "Jennifer Lawrence is a talented American actress known for her versatile performances and charming personality. She has gained widespread recognition and acclaim for her work in both independent and blockbuster films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Jennifer_Lawrence_in_2016.jpg/800px-Jennifer_Lawrence_in_2016.jpg"
+	},
+	{
+		"id": 24,
+		"name": "Emma Thompson",
+		"birth_year": 1959,
+		"nationality": "British",
+		"most_famous_movies": ["Sense and Sensibility", "Love Actually", "Nanny McPhee"],
+		"awards": "2 Academy Awards, 3 BAFTA Awards",
+		"biography": "Emma Thompson is a highly talented British actress known for her exceptional performances in both drama and comedy films. She is widely regarded as one of the finest actresses of her generation.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emma_Thompson_2022.jpg/800px-Emma_Thompson_2022.jpg"
+	},
+	{
+		"id": 25,
+		"name": "Kate Winslet",
+		"birth_year": 1975,
+		"nationality": "British",
+		"most_famous_movies": ["Titanic", "The Reader", "Eternal Sunshine of the Spotless Mind"],
+		"awards": "1 Academy Award, 4 Golden Globe Awards",
+		"biography": "Kate Winslet is a gifted actress admired for her emotional depth and exceptional portrayals in a wide range of roles.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kate_Winslet_at_the_2017_Toronto_International_Film_Festival_%28cropped%29.jpg/800px-Kate_Winslet_at_the_2017_Toronto_International_Film_Festival_%28cropped%29.jpg"
+	},
+	{
+		"id": 26,
+		"name": "Michelle Pfeiffer",
+		"birth_year": 1958,
+		"nationality": "American",
+		"most_famous_movies": ["Scarface", "Batman Returns", "Dangerous Liaisons"],
+		"awards": "3 Academy Award Nominations, 2 Golden Globe Awards",
+		"biography": "Michelle Pfeiffer is a versatile and stunning actress known for her unforgettable performances and captivating presence.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Michelle_Pfeiffer_Ant-Man_%26_The_Wasp_premiere.jpg"
+	},
+	{
+		"id": 27,
+		"name": "Sigourney Weaver",
+		"birth_year": 1949,
+		"nationality": "American",
+		"most_famous_movies": ["Alien", "Avatar", "Gorillas in the Mist"],
+		"awards": "3 Academy Award Nominations, 2 BAFTA Awards",
+		"biography": "Sigourney Weaver is an iconic actress celebrated for her strong female roles and significant contributions to sci-fi cinema.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sigourney_Weaver_by_Gage_Skidmore_4.jpg/800px-Sigourney_Weaver_by_Gage_Skidmore_4.jpg"
+	},
+	{
+		"id": 28,
+		"name": "Halle Berry",
+		"birth_year": 1966,
+		"nationality": "American",
+		"most_famous_movies": ["Monster's Ball", "Die Another Day", "X-Men"],
+		"awards": "1 Academy Award, 1 Primetime Emmy Award",
+		"biography": "Halle Berry is a talented and trailblazing actress, known for her groundbreaking roles and barrier-breaking achievements.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Halle_Berry_by_Gage_Skidmore_2.jpg/800px-Halle_Berry_by_Gage_Skidmore_2.jpg"
+	},
+	{
+		"id": 29,
+		"name": "Amy Adams",
+		"birth_year": 1974,
+		"nationality": "American",
+		"most_famous_movies": ["Arrival", "Enchanted", "American Hustle"],
+		"awards": "6 Academy Award Nominations, 2 Golden Globe Awards",
+		"biography": "Amy Adams is a highly-regarded actress admired for her incredible range and ability to bring depth to her characters.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Amy_Adams_UK_Nocturnal_Animals_Premiere_%28cropped%29.jpg/800px-Amy_Adams_UK_Nocturnal_Animals_Premiere_%28cropped%29.jpg"
+	},
+	{
+		"id": 30,
+		"name": "Keira Knightley",
+		"birth_year": 1985,
+		"nationality": "British",
+		"most_famous_movies": ["Pride & Prejudice", "Pirates of the Caribbean", "Atonement"],
+		"awards": "Nominated for 2 Academy Awards, 2 Golden Globe Awards",
+		"biography": "Keira Knightley is a talented actress known for her captivating performances and charming on-screen presence.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KeiraKnightleyByAndreaRaffin2011_%28cropped%29.jpg"
+	},
+	{
+		"id": 31,
+		"name": "Mila Kunis",
+		"birth_year": 1983,
+		"nationality": "American",
+		"most_famous_movies": ["Black Swan", "Bad Moms", "Friends with Benefits"],
+		"awards": "2 Saturn Awards, 1 Teen Choice Award",
+		"biography": "Mila Kunis is a talented actress known for her comedic and dramatic performances in various films and television shows.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Mila_Kunis_2018_%28cropped_2%29.jpg"
+	},
+	{
+		"id": 32,
+		"name": "Natalie Dormer",
+		"birth_year": 1982,
+		"nationality": "British",
+		"most_famous_movies": ["Game of Thrones", "The Hunger Games", "The Tudors"],
+		"awards": "None",
+		"biography": "Natalie Dormer is a talented British actress known for her captivating performances in various television series and films. She has garnered a massive fan following for her roles in popular shows like Game of Thrones.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Natalie_Dormer_by_Gage_Skidmore_2.jpg/800px-Natalie_Dormer_by_Gage_Skidmore_2.jpg"
+	},
+	{
+		"id": 33,
+		"name": "Alia Bhatt",
+		"birth_year": 1993,
+		"nationality": "Indian",
+		"most_famous_movies": ["Raazi", "Gully Boy", "Dear Zindagi"],
+		"awards": "2 Filmfare Awards",
+		"biography": "Alia Bhatt is a talented Indian actress known for her versatile roles and impressive performances.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alia_Bhatt_at_Berlinale_2022_Ausschnitt.jpg/800px-Alia_Bhatt_at_Berlinale_2022_Ausschnitt.jpg"
+	},
+	{
+		"id": 34,
+		"name": "Gal Gadot",
+		"birth_year": 1985,
+		"nationality": "Israeli",
+		"most_famous_movies": ["Wonder Woman", "Justice League", "Fast & Furious"],
+		"awards": "None",
+		"biography": "Gal Gadot is an Israeli actress and model, best known for her role as Wonder Woman in the DC Extended Universe.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gal_Gadot_at_the_2018_Comic-Con_International_13_%28cropped%29.jpg/800px-Gal_Gadot_at_the_2018_Comic-Con_International_13_%28cropped%29.jpg"
+	},
+	{
+		"id": 35,
+		"name": "Penélope Cruz",
+		"birth_year": 1974,
+		"nationality": "Spanish",
+		"most_famous_movies": ["Vicky Cristina Barcelona", "Vanilla Sky", "Volver"],
+		"awards": "1 Academy Award, 3 Goya Awards",
+		"biography": "Penélope Cruz is a highly acclaimed Spanish actress known for her exceptional performances in both Spanish and international films. She has received numerous awards for her outstanding work in the film industry.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Premios_Goya_2018_-_Pen%C3%A9lope_Cruz.jpg/800px-Premios_Goya_2018_-_Pen%C3%A9lope_Cruz.jpg"
+	},
+	{
+		"id": 36,
+		"name": "Nicole Kidman",
+		"birth_year": 1967,
+		"nationality": "Australian",
+		"most_famous_movies": ["Moulin Rouge!", "The Hours", "Big Little Lies"],
+		"awards": "1 Academy Award, 4 Golden Globe Awards",
+		"biography": "Nicole Kidman is a talented actress known for her compelling performances and captivating presence.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Nicole_Kidman_2_%2829900987478%29.jpg/800px-Nicole_Kidman_2_%2829900987478%29.jpg"
+	},
+	{
+		"id": 37,
+		"name": "Priyanka Chopra",
+		"birth_year": 1982,
+		"nationality": "Indian",
+		"most_famous_movies": ["Bajirao Mastani", "Mary Kom", "Dil Dhadakne Do"],
+		"awards": "1 National Film Award, 5 Filmfare Awards",
+		"biography": "Priyanka Chopra is a renowned Indian actress known for her stellar performances in Bollywood and Hollywood.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Priyanka-chopra-gesf-2018-7565.jpg/220px-Priyanka-chopra-gesf-2018-7565.jpg"
+	},
+	{
+		"id": 48,
+		"name": "Song Hye-kyo",
+		"birth_year": 1981,
+		"nationality": "South Korean",
+		"most_famous_movies": ["My Sassy Girl", "Autumn in My Heart", "Descendants of the Sun"],
+		"awards": "3 Baeksang Arts Awards, 1 Grand Bell Award",
+		"biography": "Song Hye-kyo is a beloved South Korean actress known for her captivating performances in television dramas and films.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg/800px-20230719_Song_Hye-kyo_%28%EC%86%A1%ED%98%9C%EA%B5%90%29.jpg"
+	},
+	{
+		"id": 39,
+		"name": "Deepika Padukone",
+		"birth_year": 1986,
+		"nationality": "Indian",
+		"most_famous_movies": ["Padmaavat", "Chennai Express", "Piku"],
+		"awards": "3 Filmfare Awards",
+		"biography": "Deepika Padukone is a highly acclaimed Indian actress known for her exceptional acting skills and beauty.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Deepika_Padukone_Cannes_2018_%28cropped%29.jpg/220px-Deepika_Padukone_Cannes_2018_%28cropped%29.jpg"
+	},
+	{
+		"id": 40,
+		"name": "Zhang Ziyi",
+		"birth_year": 1979,
+		"nationality": "Chinese",
+		"most_famous_movies": ["Crouching Tiger, Hidden Dragon", "Memoirs of a Geisha", "Hero"],
+		"awards": "3 Chinese Film Media Awards, 1 BAFTA Award",
+		"biography": "Zhang Ziyi is a celebrated Chinese actress known for her remarkable performances in both Chinese and international cinema.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Zhang_Ziyi_the_Jury_President_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2019_%2849013444988%29_%28cropped%29.jpg/800px-Zhang_Ziyi_the_Jury_President_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2019_%2849013444988%29_%28cropped%29.jpg"
+	}
+]
